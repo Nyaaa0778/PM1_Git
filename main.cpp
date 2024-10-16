@@ -2,8 +2,7 @@
 
 int main() {
 
-  printf("Hello!");
-  printf("\nプルリクエスト変えたよ");
+	printf("Hello!");
 
-  return 0;
+	return 0;
 }
