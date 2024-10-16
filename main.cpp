@@ -3,7 +3,7 @@
 int main() {
 
   printf("Hello!");
-  printf("\nプルリクエスト変えたよ!");
+  printf("\nプルリクエスト変えた!");
 
   return 0;
 }
