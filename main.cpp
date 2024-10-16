@@ -3,7 +3,7 @@
 int main() {
   
   printf("Hello!");
-  printf("\n何か変更");
+  printf("\n何度目かの変更");
   
 	return 0;
 }
