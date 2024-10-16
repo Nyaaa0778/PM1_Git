@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main() {
-
+  
   printf("Hello!");
-  printf("\nプルリクエスト変えた!");
-
-  return 0;
+  printf("\n菴輔°螟画峩");
+  
+	return 0;
 }
