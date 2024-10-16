@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main() {
-
+  
   printf("Hello!");
-  printf("\nƒvƒ‹ƒŠƒNƒGƒXƒg•Ï‚¦‚½‚æ!");
-
-  return 0;
+  printf("\nï¿½vï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½Gï¿½Xï¿½gï¿½Ï‚ï¿½ï¿½ï¿½ï¿½ï¿½!");
+  
+	return 0;
 }
