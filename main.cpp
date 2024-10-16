@@ -3,7 +3,7 @@
 int main() {
   
   printf("Hello!");
-  printf("\nおかしいぞ...");
+  printf("\nコンフリクト");
   
 	return 0;
 }
